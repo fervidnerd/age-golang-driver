@@ -17,7 +17,7 @@
 //  * under the License.
 //  */
 
-module github.com/apache/age/drivers/golang
+module github.com/hpapaxen/age-golang-driver
 
 go 1.19
 

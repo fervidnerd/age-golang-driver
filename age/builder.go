@@ -26,7 +26,7 @@ import (
 	"strings"
 
 	"github.com/antlr4-go/antlr/v4"
-	"github.com/apache/age/drivers/golang/parser"
+	"github.com/hpapaxen/age-golang-driver/parser"
 )
 
 const MaxUint = ^uint(0)
